@@ -7,3 +7,5 @@ Added text through browser
 Added text on PC
 
 added text in the newbranch
+
+creating a conflict on PC
