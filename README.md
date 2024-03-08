@@ -8,4 +8,4 @@ Added text on PC
 
 added text in the newbranch
 
-creating a conflict on PC
+creating a conflict on PC adding some more text on PC fro conflict
