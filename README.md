@@ -8,4 +8,4 @@ Added text on PC
 
 added text in the newbranch
 
-solving a conflict
+solving a conflict browser text
